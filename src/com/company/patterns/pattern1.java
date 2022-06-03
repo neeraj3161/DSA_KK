@@ -11,6 +11,7 @@ public class pattern1 {
             for (int j = 1; j <=i ; j++) {
                 System.out.print("* ");
             }
+            //when one row is printed we need to add a new line
             System.out.println();
         }
     }
